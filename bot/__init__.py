@@ -5,7 +5,7 @@ import time
 import random
 import string
 
-import aria2p
+import aria2
 import telegram.ext as tg
 from dotenv import load_dotenv
 from pyrogram import Client
