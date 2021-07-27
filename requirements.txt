@@ -1,5 +1,5 @@
 aiohttp
-aria2
+aria2p
 appdirs
 beautifulsoup4
 cloudscrape
